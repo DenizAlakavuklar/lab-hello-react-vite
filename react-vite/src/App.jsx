@@ -29,20 +29,20 @@ function App() {
 
   <div class="container"> 
     <img src={icon2} className="card" alt="icon" />
-    <h2><a>John Doe</a></h2>
-    <p className='read-the-docs'>Architect & Engineer</p>
+    <h2><a>Components</a></h2>
+    <p className='read-the-docs'>Build encapsulated components that manage their state.</p>
     </div>
 
   <div class="container"> 
     <img src={icon3} className="card" alt="icon" />
-    <h2><a>John Doe</a></h2>
-    <p className='read-the-docs'>Architect & Engineer</p>
+    <h2><a>Single-Way</a></h2>
+    <p className='read-the-docs'>A set of immutable values are passed to the component's.</p>
 </div>
 
   <div class="container"> 
     <img src={icon4} className="card" alt="icon" />
-    <h2><a>John Doe</a></h2>
-    <p className='read-the-docs'>Architect & Engineer</p>
+    <h2><a>JSX</a></h2>
+    <p className='read-the-docs'>Statically-typed, designed to run on modern browsers.</p>
 </div>
     
   </div>
